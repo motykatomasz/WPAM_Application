@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all_offers"
+            android:title="Wszystkie oferty" />
+        <item
+            android:id="@+id/my_offers"
+            android:title="Moje oferty" />
+        <item
+            android:id="@+id/my_joined_offers"
+            android:title="Moje dolaczone oferty" />
+        <item
+            android:id="@+id/add_offer"
+            android:title="Dodaj oferte" />
+        <item
+            android:id="@+id/profile"
+            android:title="Profil" />
+    </group>
+</menu>

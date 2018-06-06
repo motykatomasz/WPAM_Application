@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">WPAM_APP</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="prompt_address">Address</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="all_offers">Wszystkie oferty</string>
+    <string name="my_offers">Moje oferty</string>
+    <string name="my_joined_offers">Moje dolaczone oferty</string>
+    <string name="profile">Profil</string>
+    <string name="create_offer">Dodaj ofertę</string>
+
+    <string name="level">Poziom</string>
+    <string name="address">Adres</string>
+    <string name="date">Data</string>
+    <string name="price">Cena</string>
+    <string name="contact">Kontakt</string>
+    <string name="create">Dodaj</string>
+
+
+    <string name="Car">Samochodem</string>
+    <string-array name="travel_modes">
+        <item>driving</item>
+        <item>walking</item>
+        <item>bicycling</item>
+        <item>transit</item>
+    </string-array>
+
+
+</resources>
